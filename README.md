@@ -1,7 +1,7 @@
 # cloud-interoperability
 # Desafio - Cloud Platform Infraestructure
 O arquivo desafio.yaml cria o ambiente solicitado no desafio da aula de mba Cloud & DevOps - Cloud Platform Infraestructure.
-[img]
+![Alt text](https://raw.githubusercontent.com/Menosse/cloud-interoperability/main/Screen%20Shot%202021-08-23%20at%2011.06.59.png)
 1. Logar no ambiente Sandbox do AWS academy
 2. Apagar Instancias e VPCs criadas por padrão
 3. Acessar o serviço CloudFormation
